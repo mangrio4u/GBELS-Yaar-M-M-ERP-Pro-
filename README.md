@@ -35,7 +35,7 @@ Forms      → Netlify Forms / Email Integration
 
 ## ⚡ Live Demo
 
-🌍 *Coming Soon / Already Deployed on Netlify*
+🌍 *https://gbelsymm.netlify.app/*
 
 ---
 
